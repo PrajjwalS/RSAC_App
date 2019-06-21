@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69232471774",
+    "firebase_url": "https://rsacapp.firebaseio.com",
+    "project_id": "rsacapp",
+    "storage_bucket": "rsacapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69232471774:android:a5c56b2a08df0e7c",
+        "android_client_info": {
+          "package_name": "com.rsac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69232471774-agd0uenqsro7pe0rdepjlh9sa91e6cri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rsac_app",
+            "certificate_hash": "66578fee2ef73ee975bce5e464bc74722f9a429b"
+          }
+        },
+        {
+          "client_id": "69232471774-hrob26cbb0cmhdh7td4pfqdin48ae2cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dMjA4lNN1z8_AcHU8Ze1upk4eDnCzGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69232471774-hrob26cbb0cmhdh7td4pfqdin48ae2cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
